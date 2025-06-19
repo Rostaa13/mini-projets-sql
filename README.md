@@ -12,7 +12,7 @@ Ce dépôt contient mes deux premiers projets pratiques en SQL réalisés dans l
 - Requêtes : jointures, agrégats, mise à jour, suppression
 - Bonus : vue SQL pour synthèse des promotions
 
-### 2. 🧱 [Projet – Gestion de stock (quincaillerie)](./projet-stock-quincaillerie)
+### 2. 🧱 [Projet – Gestion de stock (quincaillerie)](Projets-sql-debutant/Projet-stock-quincaillerie/Projet-stock-quincaillerie.sql)
 
 - Tables : `produits`, `fournisseurs`, `livraisons`
 - Requêtes : alertes stock bas, regroupement livraisons, dernière livraison
