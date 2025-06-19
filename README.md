@@ -6,7 +6,7 @@ Ce dépôt contient mes deux premiers projets pratiques en SQL réalisés dans l
 
 ## 🔹 Contenu
 
-### 1. 📦 [Mini-projet – Gestion de commandes](Projets-sql-debutant/Mini-projet-commandes)
+### 1. 📦 [Mini-projet – Gestion de commandes](Projets-sql-debutant/Projet-commandes/Premier_exercise.sql)
 
 - Tables : `clients`, `produits`, `commandes`
 - Requêtes : jointures, agrégats, mise à jour, suppression
